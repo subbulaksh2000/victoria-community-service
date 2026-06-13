@@ -259,7 +259,7 @@ Victoria-Community-Services-Dashboard/
 
 Data Analytics • Power BI • Data Governance • Community Analytics
 
-LinkedIn → *(Insert LinkedIn URL)*
+LinkedIn → *https://www.linkedin.com/in/subbulakshmi-natarajan/*
 
 ---
 
