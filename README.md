@@ -4,7 +4,7 @@
 
 ### Power BI • Community Analytics • Risk Monitoring • Decision Intelligence
 
-Turning community service data into meaningful insights through interactive analytics and dashboard storytelling.
+Transforming referrals, risk indicators, and service outcomes into actionable insights through interactive analytics.
 
 </p>
 
@@ -12,11 +12,11 @@ Turning community service data into meaningful insights through interactive anal
 
 # 🚀 Elevator Pitch
 
-What if community service teams could identify emerging risks earlier, monitor service delivery more effectively, and improve outcomes through data?
+What if community service teams could identify emerging risks earlier, prioritise support faster, and improve outcomes through data?
 
-The **Victoria Community Services Dashboard** is an end-to-end Power BI analytics project designed to demonstrate how data can support **early identification, service monitoring, operational visibility, and outcome-driven decision-making**.
+The **Victoria Community Services Dashboard** is an end-to-end **Power BI analytics project** designed to demonstrate how data can support **early identification, service monitoring, operational visibility, and outcome-driven decision-making**.
 
-Built using a synthetic Victorian community services dataset, this dashboard transforms referral, assessment, risk, and operational data into actionable insights to support proactive service reporting.
+Built using a **synthetic Victorian community services dataset**, this dashboard transforms referral, assessment, risk, and operational data into actionable insights that support proactive service reporting and decision support.
 
 ---
 
@@ -28,6 +28,7 @@ Built using a synthetic Victorian community services dataset, this dashboard tra
 📈 Outcome Monitoring
 📋 Operational Visibility
 🔐 Privacy-Aware Reporting
+📌 Interactive Filtering
 
 ---
 
@@ -35,17 +36,37 @@ Built using a synthetic Victorian community services dataset, this dashboard tra
 
 ## Executive Overview
 
-![Executive Overview](Final%20Draft%20-%20Dashbord%20-%20Victoria%20Community%20Dashboard.jpg)
+![Executive Overview](dashboard/Final%20Draft%20-%20Dashbord%20-%20Victoria%20Community%20Dashboard.jpg)
 
 Provides a high-level summary of service demand, regional distribution, and operational performance.
+
+### Includes
+
+* Clients Supported
+* Total Cases
+* High Risk Case Rate
+* Completion Rate
+* Average Service Hours
+* Monthly Trends
+* Program Distribution
+* Regional Insights
 
 ---
 
 ## Risk & Early Identification Dashboard
 
-![Risk Dashboard](Risk%20Identification%20-%20Screenshot%20-%20Final%20Draft%201.jpg)
+![Risk Dashboard](dashboard/Risk%20Identification%20-%20Screenshot%20-%20Final%20Draft%201.jpg)
 
 Supports proactive monitoring of emerging risks and prioritisation of service delivery.
+
+### Includes
+
+* High Risk Monitoring
+* Active Case Tracking
+* Referral Source Analysis
+* Regional Risk Distribution
+* Cases Requiring Attention
+* Program Risk Analysis
 
 ---
 
@@ -59,7 +80,7 @@ Without consolidated reporting, organisations may face challenges in:
 * Identifying emerging risks
 * Tracking case progression
 * Measuring intervention effectiveness
-* Supporting operational decisions
+* Supporting operational decision-making
 
 This dashboard explores how analytics can improve visibility across the service lifecycle.
 
@@ -74,6 +95,7 @@ This project was designed to:
 ✅ Improve operational visibility
 ✅ Track service outcomes and follow-up activities
 ✅ Demonstrate dashboard storytelling in Power BI
+✅ Apply privacy-aware analytics principles
 
 ---
 
@@ -95,18 +117,34 @@ Outcome Reporting
 
 ---
 
+# 📊 Key Business Questions
+
+This dashboard was designed to answer:
+
+✔ Which regions show the highest case demand?
+✔ What proportion of cases are categorised as high risk?
+✔ Which programs require increased attention?
+✔ How effective are follow-up activities?
+✔ Which referral channels contribute most to demand?
+✔ Where can service outcomes improve?
+
+---
+
 # 📂 Dataset
+
+### Source
 
 Synthetic Victorian Community Services Dataset
 
-Dataset includes:
+### Dataset Includes
 
 * 400 fictional service records
-* Victorian regional representation
+* Victorian regional coverage
 * Referral tracking
 * Assessment outcomes
 * Follow-up monitoring
 * Risk categorisation
+* Service outcomes
 * Operational indicators
 
 **Disclaimer:**
@@ -116,31 +154,42 @@ This project uses synthetic demonstration data only and contains no real client 
 
 # 🛠 Tech Stack
 
+### Analytics
+
 * Power BI Desktop
 * Power Query
 * DAX
+
+### Data
+
 * Excel
 * Data Modelling
+* Synthetic Dataset Design
+
+### Reporting
+
 * Dashboard Storytelling
+* KPI Design
+* Interactive Reporting
 
 ---
 
 # 📈 Dashboard Metrics
 
-### Operational
+### Operational Metrics
 
 * Total Clients
 * Total Cases
 * Completion Rate
 * Average Service Hours
 
-### Risk
+### Risk Metrics
 
 * High Risk Cases
 * Active Cases
 * Overdue Cases
 
-### Outcomes
+### Outcome Metrics
 
 * Follow-up Completion
 * Outcome Improvement
@@ -157,15 +206,50 @@ Designed using:
 * Data quality awareness
 * Governance-oriented reporting
 
+No personal or confidential information is included.
+
 ---
 
 # 🚀 Future Enhancements
 
 * Predictive risk modelling
-* Resource allocation dashboard
+* Resource allocation analytics
 * Microsoft Fabric integration
 * Power BI Service deployment
 * Row-Level Security (RLS)
+* Automated refresh workflows
+
+---
+
+# 💡 Key Learning Outcomes
+
+This project strengthened:
+
+* Power BI dashboard development
+* DAX calculations
+* Data modelling
+* KPI reporting
+* Dashboard storytelling
+* Community analytics
+* Governance principles
+
+---
+
+# 📁 Repository Structure
+
+```text
+Victoria-Community-Services-Dashboard/
+│
+├── README.md
+│
+├── dashboard/
+│   ├── Final Draft - Dashbord - Victoria Community Dashboard.jpg
+│   └── Risk Identification - Screenshot - Final Draft 1.jpg
+│
+├── dataset/
+│
+└── pbix/
+```
 
 ---
 
@@ -175,7 +259,7 @@ Designed using:
 
 Data Analytics • Power BI • Data Governance • Community Analytics
 
-LinkedIn → *(Insert URL)*
+LinkedIn → *(Insert LinkedIn URL)*
 
 ---
 
